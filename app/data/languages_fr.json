@@ -1,0 +1,1252 @@
+{
+  "aar": {
+    "alpha_2": "aa",
+    "alpha_3": "aar",
+    "name": "Afar",
+    "name_fr": "Afar",
+    "scope": "I",
+    "type": "L"
+  },
+  "abk": {
+    "alpha_2": "ab",
+    "alpha_3": "abk",
+    "name": "Abkhazian",
+    "name_fr": "Abkhaze",
+    "scope": "I",
+    "type": "L"
+  },
+  "afr": {
+    "alpha_2": "af",
+    "alpha_3": "afr",
+    "name": "Afrikaans",
+    "name_fr": "Afrikaans",
+    "scope": "I",
+    "type": "L"
+  },
+  "amh": {
+    "alpha_2": "am",
+    "alpha_3": "amh",
+    "name": "Amharic",
+    "name_fr": "Amharique",
+    "scope": "I",
+    "type": "L"
+  },
+  "arg": {
+    "alpha_2": "an",
+    "alpha_3": "arg",
+    "name": "Aragonese",
+    "name_fr": "Aragonais",
+    "scope": "I",
+    "type": "L"
+  },
+  "asm": {
+    "alpha_2": "as",
+    "alpha_3": "asm",
+    "name": "Assamese",
+    "name_fr": "Assamais",
+    "scope": "I",
+    "type": "L"
+  },
+  "ava": {
+    "alpha_2": "av",
+    "alpha_3": "ava",
+    "name": "Avaric",
+    "name_fr": "Avar",
+    "scope": "I",
+    "type": "L"
+  },
+  "bak": {
+    "alpha_2": "ba",
+    "alpha_3": "bak",
+    "name": "Bashkir",
+    "name_fr": "Bachkir",
+    "scope": "I",
+    "type": "L"
+  },
+  "bam": {
+    "alpha_2": "bm",
+    "alpha_3": "bam",
+    "name": "Bambara",
+    "name_fr": "Bambara",
+    "scope": "I",
+    "type": "L"
+  },
+  "bel": {
+    "alpha_2": "be",
+    "alpha_3": "bel",
+    "name": "Belarusian",
+    "name_fr": "Biélorusse",
+    "scope": "I",
+    "type": "L",
+    "country_code": "BY",
+    "country_name": "Belarus"
+  },
+  "ben": {
+    "alpha_2": "bn",
+    "alpha_3": "ben",
+    "name": "Bengali",
+    "name_fr": "Bengali",
+    "scope": "I",
+    "type": "L",
+    "common_name": "Bangla",
+    "common_name_fr": "Bangla",
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  "bis": {
+    "alpha_2": "bi",
+    "alpha_3": "bis",
+    "name": "Bislama",
+    "name_fr": "Bichelamar",
+    "scope": "I",
+    "type": "L"
+  },
+  "bod": {
+    "alpha_2": "bo",
+    "alpha_3": "bod",
+    "name": "Tibetan",
+    "name_fr": "Tibétain",
+    "scope": "I",
+    "type": "L"
+  },
+  "bos": {
+    "alpha_2": "bs",
+    "alpha_3": "bos",
+    "name": "Bosnian",
+    "name_fr": "Bosniaque",
+    "scope": "I",
+    "type": "L",
+    "country_code": "BA",
+    "country_name": "Bosnia and Herzegovina"
+  },
+  "bre": {
+    "alpha_2": "br",
+    "alpha_3": "bre",
+    "name": "Breton",
+    "name_fr": "Breton",
+    "scope": "I",
+    "type": "L",
+    "country_code": "FR",
+    "country_name": "France"
+  },
+  "bul": {
+    "alpha_2": "bg",
+    "alpha_3": "bul",
+    "name": "Bulgarian",
+    "name_fr": "Bulgare",
+    "scope": "I",
+    "type": "L",
+    "country_code": "BG",
+    "country_name": "Bulgaria"
+  },
+  "cat": {
+    "alpha_2": "ca",
+    "alpha_3": "cat",
+    "name": "Catalan",
+    "name_fr": "Catalan",
+    "scope": "I",
+    "type": "L",
+    "country_code": "ES",
+    "country_name": "Spain"
+  },
+  "ces": {
+    "alpha_2": "cs",
+    "alpha_3": "ces",
+    "name": "Czech",
+    "name_fr": "Tchèque",
+    "scope": "I",
+    "type": "L",
+    "country_code": "CZ",
+    "country_name": "Czechia"
+  },
+  "cha": {
+    "alpha_2": "ch",
+    "alpha_3": "cha",
+    "name": "Chamorro",
+    "name_fr": "Chamorro",
+    "scope": "I",
+    "type": "L"
+  },
+  "che": {
+    "alpha_2": "ce",
+    "alpha_3": "che",
+    "name": "Chechen",
+    "name_fr": "Tchétchène",
+    "scope": "I",
+    "type": "L"
+  },
+  "chv": {
+    "alpha_2": "cv",
+    "alpha_3": "chv",
+    "name": "Chuvash",
+    "name_fr": "Tchouvache",
+    "scope": "I",
+    "type": "L"
+  },
+  "cor": {
+    "alpha_2": "kw",
+    "alpha_3": "cor",
+    "name": "Cornish",
+    "name_fr": "Cornique",
+    "scope": "I",
+    "type": "L",
+    "country_code": "GB",
+    "country_name": "United Kingdom"
+  },
+  "cos": {
+    "alpha_2": "co",
+    "alpha_3": "cos",
+    "name": "Corsican",
+    "name_fr": "Corse",
+    "scope": "I",
+    "type": "L"
+  },
+  "cym": {
+    "alpha_2": "cy",
+    "alpha_3": "cym",
+    "name": "Welsh",
+    "name_fr": "Gallois",
+    "scope": "I",
+    "type": "L",
+    "country_code": "GB",
+    "country_name": "United Kingdom"
+  },
+  "dan": {
+    "alpha_2": "da",
+    "alpha_3": "dan",
+    "name": "Danish",
+    "name_fr": "Danois",
+    "scope": "I",
+    "type": "L",
+    "country_code": "DK",
+    "country_name": "Denmark"
+  },
+  "deu": {
+    "alpha_2": "de",
+    "alpha_3": "deu",
+    "name": "German",
+    "name_fr": "Allemand",
+    "scope": "I",
+    "type": "L",
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "div": {
+    "alpha_2": "dv",
+    "alpha_3": "div",
+    "name": "Dhivehi",
+    "name_fr": "Dhivehi",
+    "scope": "I",
+    "type": "L"
+  },
+  "dzo": {
+    "alpha_2": "dz",
+    "alpha_3": "dzo",
+    "name": "Dzongkha",
+    "name_fr": "Dzongkha",
+    "scope": "I",
+    "type": "L"
+  },
+  "ell": {
+    "alpha_2": "el",
+    "alpha_3": "ell",
+    "name": "Modern Greek (1453-)",
+    "name_fr": "Grec moderne (après 1453)",
+    "scope": "I",
+    "type": "L",
+    "inverted_name": "Greek, Modern (1453-)",
+    "country_code": "GR",
+    "country_name": "Greece"
+  },
+  "eng": {
+    "alpha_2": "en",
+    "alpha_3": "eng",
+    "name": "English",
+    "name_fr": "Anglais",
+    "scope": "I",
+    "type": "L",
+    "country_code": "GB",
+    "country_name": "United Kingdom"
+  },
+  "eus": {
+    "alpha_2": "eu",
+    "alpha_3": "eus",
+    "name": "Basque",
+    "name_fr": "Basque",
+    "scope": "I",
+    "type": "L",
+    "country_code": "ES",
+    "country_name": "Spain"
+  },
+  "ewe": {
+    "alpha_2": "ee",
+    "alpha_3": "ewe",
+    "name": "Ewe",
+    "name_fr": "Éwé",
+    "scope": "I",
+    "type": "L"
+  },
+  "fao": {
+    "alpha_2": "fo",
+    "alpha_3": "fao",
+    "name": "Faroese",
+    "name_fr": "Féroïen",
+    "scope": "I",
+    "type": "L",
+    "country_code": "FO",
+    "country_name": "Faroe Islands"
+  },
+  "fij": {
+    "alpha_2": "fj",
+    "alpha_3": "fij",
+    "name": "Fijian",
+    "name_fr": "Fidjien",
+    "scope": "I",
+    "type": "L"
+  },
+  "fin": {
+    "alpha_2": "fi",
+    "alpha_3": "fin",
+    "name": "Finnish",
+    "name_fr": "Finnois",
+    "scope": "I",
+    "type": "L",
+    "country_code": "FI",
+    "country_name": "Finland"
+  },
+  "fra": {
+    "alpha_2": "fr",
+    "alpha_3": "fra",
+    "name": "French",
+    "name_fr": "Français",
+    "scope": "I",
+    "type": "L",
+    "country_code": "FR",
+    "country_name": "France"
+  },
+  "fry": {
+    "alpha_2": "fy",
+    "alpha_3": "fry",
+    "name": "Western Frisian",
+    "name_fr": "Frison occidental",
+    "scope": "I",
+    "type": "L",
+    "inverted_name": "Frisian, Western"
+  },
+  "gla": {
+    "alpha_2": "gd",
+    "alpha_3": "gla",
+    "name": "Scottish Gaelic",
+    "name_fr": "Gaélique écossais",
+    "scope": "I",
+    "type": "L",
+    "inverted_name": "Gaelic, Scottish",
+    "country_code": "GB",
+    "country_name": "United Kingdom"
+  },
+  "gle": {
+    "alpha_2": "ga",
+    "alpha_3": "gle",
+    "name": "Irish",
+    "name_fr": "Irlandais",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  "glg": {
+    "alpha_2": "gl",
+    "alpha_3": "glg",
+    "name": "Galician",
+    "name_fr": "Galicien",
+    "scope": "I",
+    "type": "L",
+    "country_code": "ES",
+    "country_name": "Spain"
+  },
+  "glv": {
+    "alpha_2": "gv",
+    "alpha_3": "glv",
+    "name": "Manx",
+    "name_fr": "Mannois",
+    "scope": "I",
+    "type": "L"
+  },
+  "guj": {
+    "alpha_2": "gu",
+    "alpha_3": "guj",
+    "name": "Gujarati",
+    "name_fr": "Goudjarâtî (Gujrâtî)",
+    "scope": "I",
+    "type": "L"
+  },
+  "hat": {
+    "alpha_2": "ht",
+    "alpha_3": "hat",
+    "name": "Haitian",
+    "name_fr": "Haïtien",
+    "scope": "I",
+    "type": "L"
+  },
+  "hau": {
+    "alpha_2": "ha",
+    "alpha_3": "hau",
+    "name": "Hausa",
+    "name_fr": "Haoussa",
+    "scope": "I",
+    "type": "L"
+  },
+  "heb": {
+    "alpha_2": "he",
+    "alpha_3": "heb",
+    "name": "Hebrew",
+    "name_fr": "Hébreu",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  "her": {
+    "alpha_2": "hz",
+    "alpha_3": "her",
+    "name": "Herero",
+    "name_fr": "Herero",
+    "scope": "I",
+    "type": "L"
+  },
+  "hin": {
+    "alpha_2": "hi",
+    "alpha_3": "hin",
+    "name": "Hindi",
+    "name_fr": "Hindi",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "hmo": {
+    "alpha_2": "ho",
+    "alpha_3": "hmo",
+    "name": "Hiri Motu",
+    "name_fr": "Hiri Motu",
+    "scope": "I",
+    "type": "L"
+  },
+  "hrv": {
+    "alpha_2": "hr",
+    "alpha_3": "hrv",
+    "name": "Croatian",
+    "name_fr": "Croate",
+    "scope": "I",
+    "type": "L",
+    "country_code": "HR",
+    "country_name": "Croatia"
+  },
+  "hun": {
+    "alpha_2": "hu",
+    "alpha_3": "hun",
+    "name": "Hungarian",
+    "name_fr": "Hongrois",
+    "scope": "I",
+    "type": "L",
+    "country_code": "HU",
+    "country_name": "Hungary"
+  },
+  "hye": {
+    "alpha_2": "hy",
+    "alpha_3": "hye",
+    "name": "Armenian",
+    "name_fr": "Arménien",
+    "scope": "I",
+    "type": "L"
+  },
+  "ibo": {
+    "alpha_2": "ig",
+    "alpha_3": "ibo",
+    "name": "Igbo",
+    "name_fr": "Igbo",
+    "scope": "I",
+    "type": "L"
+  },
+  "iii": {
+    "alpha_2": "ii",
+    "alpha_3": "iii",
+    "name": "Sichuan Yi",
+    "name_fr": "Yi de Sichuan",
+    "scope": "I",
+    "type": "L",
+    "inverted_name": "Yi, Sichuan"
+  },
+  "ind": {
+    "alpha_2": "id",
+    "alpha_3": "ind",
+    "name": "Indonesian",
+    "name_fr": "Indonésien",
+    "scope": "I",
+    "type": "L",
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  "isl": {
+    "alpha_2": "is",
+    "alpha_3": "isl",
+    "name": "Icelandic",
+    "name_fr": "Islandais",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IS",
+    "country_name": "Iceland"
+  },
+  "ita": {
+    "alpha_2": "it",
+    "alpha_3": "ita",
+    "name": "Italian",
+    "name_fr": "Italien",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IT",
+    "country_name": "Italy"
+  },
+  "jav": {
+    "alpha_2": "jv",
+    "alpha_3": "jav",
+    "name": "Javanese",
+    "name_fr": "Javanais",
+    "scope": "I",
+    "type": "L"
+  },
+  "jpn": {
+    "alpha_2": "ja",
+    "alpha_3": "jpn",
+    "name": "Japanese",
+    "name_fr": "Japonais",
+    "scope": "I",
+    "type": "L",
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "kal": {
+    "alpha_2": "kl",
+    "alpha_3": "kal",
+    "name": "Kalaallisut",
+    "name_fr": "Kalaallisut",
+    "scope": "I",
+    "type": "L"
+  },
+  "kan": {
+    "alpha_2": "kn",
+    "alpha_3": "kan",
+    "name": "Kannada",
+    "name_fr": "Kannara (Canara)",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "kas": {
+    "alpha_2": "ks",
+    "alpha_3": "kas",
+    "name": "Kashmiri",
+    "name_fr": "Kashmiri",
+    "scope": "I",
+    "type": "L"
+  },
+  "kat": {
+    "alpha_2": "ka",
+    "alpha_3": "kat",
+    "name": "Georgian",
+    "name_fr": "Géorgien",
+    "scope": "I",
+    "type": "L"
+  },
+  "kaz": {
+    "alpha_2": "kk",
+    "alpha_3": "kaz",
+    "name": "Kazakh",
+    "name_fr": "Kazakh",
+    "scope": "I",
+    "type": "L",
+    "country_code": "KZ",
+    "country_name": "Kazakhstan"
+  },
+  "khm": {
+    "alpha_2": "km",
+    "alpha_3": "khm",
+    "name": "Khmer",
+    "name_fr": "Khmer",
+    "scope": "I",
+    "type": "L",
+    "country_code": "KH",
+    "country_name": "Cambodia"
+  },
+  "kik": {
+    "alpha_2": "ki",
+    "alpha_3": "kik",
+    "name": "Kikuyu",
+    "name_fr": "Kikuyu",
+    "scope": "I",
+    "type": "L"
+  },
+  "kin": {
+    "alpha_2": "rw",
+    "alpha_3": "kin",
+    "name": "Kinyarwanda",
+    "name_fr": "Kinyarwanda",
+    "scope": "I",
+    "type": "L"
+  },
+  "kir": {
+    "alpha_2": "ky",
+    "alpha_3": "kir",
+    "name": "Kirghiz",
+    "name_fr": "Kirghize",
+    "scope": "I",
+    "type": "L",
+    "country_code": "KG",
+    "country_name": "Kyrgyzstan"
+  },
+  "kor": {
+    "alpha_2": "ko",
+    "alpha_3": "kor",
+    "name": "Korean",
+    "name_fr": "Coréen",
+    "scope": "I",
+    "type": "L",
+    "country_code": "KR",
+    "country_name": "Korea, Republic of"
+  },
+  "kua": {
+    "alpha_2": "kj",
+    "alpha_3": "kua",
+    "name": "Kuanyama",
+    "name_fr": "Kuanyama",
+    "scope": "I",
+    "type": "L"
+  },
+  "lao": {
+    "alpha_2": "lo",
+    "alpha_3": "lao",
+    "name": "Lao",
+    "name_fr": "Laotien",
+    "scope": "I",
+    "type": "L",
+    "country_code": "LA",
+    "country_name": "Lao People's Democratic Republic"
+  },
+  "lim": {
+    "alpha_2": "li",
+    "alpha_3": "lim",
+    "name": "Limburgan",
+    "name_fr": "Limbourgeois",
+    "scope": "I",
+    "type": "L"
+  },
+  "lin": {
+    "alpha_2": "ln",
+    "alpha_3": "lin",
+    "name": "Lingala",
+    "name_fr": "Lingala",
+    "scope": "I",
+    "type": "L"
+  },
+  "lit": {
+    "alpha_2": "lt",
+    "alpha_3": "lit",
+    "name": "Lithuanian",
+    "name_fr": "Lituanien",
+    "scope": "I",
+    "type": "L",
+    "country_code": "LT",
+    "country_name": "Lithuania"
+  },
+  "ltz": {
+    "alpha_2": "lb",
+    "alpha_3": "ltz",
+    "name": "Luxembourgish",
+    "name_fr": "Luxembourgeois",
+    "scope": "I",
+    "type": "L"
+  },
+  "lub": {
+    "alpha_2": "lu",
+    "alpha_3": "lub",
+    "name": "Luba-Katanga",
+    "name_fr": "Luba-katanga",
+    "scope": "I",
+    "type": "L"
+  },
+  "lug": {
+    "alpha_2": "lg",
+    "alpha_3": "lug",
+    "name": "Ganda",
+    "name_fr": "Ganda",
+    "scope": "I",
+    "type": "L"
+  },
+  "mah": {
+    "alpha_2": "mh",
+    "alpha_3": "mah",
+    "name": "Marshallese",
+    "name_fr": "Marshallais",
+    "scope": "I",
+    "type": "L"
+  },
+  "mal": {
+    "alpha_2": "ml",
+    "alpha_3": "mal",
+    "name": "Malayalam",
+    "name_fr": "Malayalam",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "mar": {
+    "alpha_2": "mr",
+    "alpha_3": "mar",
+    "name": "Marathi",
+    "name_fr": "Marathe",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "mkd": {
+    "alpha_2": "mk",
+    "alpha_3": "mkd",
+    "name": "Macedonian",
+    "name_fr": "Macédonien",
+    "scope": "I",
+    "type": "L",
+    "country_code": "MK",
+    "country_name": "North Macedonia"
+  },
+  "mlt": {
+    "alpha_2": "mt",
+    "alpha_3": "mlt",
+    "name": "Maltese",
+    "name_fr": "Maltais",
+    "scope": "I",
+    "type": "L"
+  },
+  "mri": {
+    "alpha_2": "mi",
+    "alpha_3": "mri",
+    "name": "Maori",
+    "name_fr": "Maori",
+    "scope": "I",
+    "type": "L"
+  },
+  "mya": {
+    "alpha_2": "my",
+    "alpha_3": "mya",
+    "name": "Burmese",
+    "name_fr": "Birman",
+    "scope": "I",
+    "type": "L",
+    "country_code": "MM",
+    "country_name": "Myanmar"
+  },
+  "nau": {
+    "alpha_2": "na",
+    "alpha_3": "nau",
+    "name": "Nauru",
+    "name_fr": "Nauru",
+    "scope": "I",
+    "type": "L"
+  },
+  "nav": {
+    "alpha_2": "nv",
+    "alpha_3": "nav",
+    "name": "Navajo",
+    "name_fr": "Navajo",
+    "scope": "I",
+    "type": "L"
+  },
+  "nbl": {
+    "alpha_2": "nr",
+    "alpha_3": "nbl",
+    "name": "South Ndebele",
+    "name_fr": "Ndebele méridional",
+    "scope": "I",
+    "type": "L",
+    "inverted_name": "Ndebele, South"
+  },
+  "nde": {
+    "alpha_2": "nd",
+    "alpha_3": "nde",
+    "name": "North Ndebele",
+    "name_fr": "Ndebele septentrional",
+    "scope": "I",
+    "type": "L",
+    "inverted_name": "Ndebele, North"
+  },
+  "ndo": {
+    "alpha_2": "ng",
+    "alpha_3": "ndo",
+    "name": "Ndonga",
+    "name_fr": "Ndonga",
+    "scope": "I",
+    "type": "L"
+  },
+  "nld": {
+    "alpha_2": "nl",
+    "alpha_3": "nld",
+    "name": "Dutch",
+    "name_fr": "Néerlandais",
+    "scope": "I",
+    "type": "L",
+    "country_code": "NL",
+    "country_name": "Netherlands"
+  },
+  "nno": {
+    "alpha_2": "nn",
+    "alpha_3": "nno",
+    "name": "Norwegian Nynorsk",
+    "name_fr": "Norvégien nynorsk",
+    "scope": "I",
+    "type": "L",
+    "country_code": "NO",
+    "country_name": "Norway"
+  },
+  "nob": {
+    "alpha_2": "nb",
+    "alpha_3": "nob",
+    "name": "Norwegian Bokmål",
+    "name_fr": "Norvégien bokmål",
+    "scope": "I",
+    "type": "L",
+    "country_code": "NO",
+    "country_name": "Norway"
+  },
+  "nya": {
+    "alpha_2": "ny",
+    "alpha_3": "nya",
+    "name": "Nyanja",
+    "name_fr": "Nyanja",
+    "scope": "I",
+    "type": "L"
+  },
+  "oci": {
+    "alpha_2": "oc",
+    "alpha_3": "oci",
+    "name": "Occitan (post 1500)",
+    "name_fr": "Occitan",
+    "scope": "I",
+    "type": "L"
+  },
+  "oss": {
+    "alpha_2": "os",
+    "alpha_3": "oss",
+    "name": "Ossetian",
+    "name_fr": "Ossétien",
+    "scope": "I",
+    "type": "L"
+  },
+  "pan": {
+    "alpha_2": "pa",
+    "alpha_3": "pan",
+    "name": "Panjabi",
+    "name_fr": "Pendjabi",
+    "scope": "I",
+    "type": "L"
+  },
+  "pol": {
+    "alpha_2": "pl",
+    "alpha_3": "pol",
+    "name": "Polish",
+    "name_fr": "Polonais",
+    "scope": "I",
+    "type": "L",
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  "por": {
+    "alpha_2": "pt",
+    "alpha_3": "por",
+    "name": "Portuguese",
+    "name_fr": "Portugais",
+    "scope": "I",
+    "type": "L",
+    "country_code": "PT",
+    "country_name": "Portugal"
+  },
+  "roh": {
+    "alpha_2": "rm",
+    "alpha_3": "roh",
+    "name": "Romansh",
+    "name_fr": "Romanche",
+    "scope": "I",
+    "type": "L"
+  },
+  "ron": {
+    "alpha_2": "ro",
+    "alpha_3": "ron",
+    "name": "Romanian",
+    "name_fr": "Roumain",
+    "scope": "I",
+    "type": "L",
+    "country_code": "RO",
+    "country_name": "Romania"
+  },
+  "run": {
+    "alpha_2": "rn",
+    "alpha_3": "run",
+    "name": "Rundi",
+    "name_fr": "Rundi",
+    "scope": "I",
+    "type": "L"
+  },
+  "rus": {
+    "alpha_2": "ru",
+    "alpha_3": "rus",
+    "name": "Russian",
+    "name_fr": "Russe",
+    "scope": "I",
+    "type": "L",
+    "country_code": "RU",
+    "country_name": "Russian Federation"
+  },
+  "sag": {
+    "alpha_2": "sg",
+    "alpha_3": "sag",
+    "name": "Sango",
+    "name_fr": "Sango",
+    "scope": "I",
+    "type": "L"
+  },
+  "sin": {
+    "alpha_2": "si",
+    "alpha_3": "sin",
+    "name": "Sinhala",
+    "name_fr": "Singhalais",
+    "scope": "I",
+    "type": "L",
+    "country_code": "LK",
+    "country_name": "Sri Lanka"
+  },
+  "slk": {
+    "alpha_2": "sk",
+    "alpha_3": "slk",
+    "name": "Slovak",
+    "name_fr": "Slovaque",
+    "scope": "I",
+    "type": "L",
+    "country_code": "SK",
+    "country_name": "Slovakia"
+  },
+  "slv": {
+    "alpha_2": "sl",
+    "alpha_3": "slv",
+    "name": "Slovenian",
+    "name_fr": "Slovène",
+    "scope": "I",
+    "type": "L",
+    "country_code": "SI",
+    "country_name": "Slovenia"
+  },
+  "sme": {
+    "alpha_2": "se",
+    "alpha_3": "sme",
+    "name": "Northern Sami",
+    "name_fr": "Same du Nord",
+    "scope": "I",
+    "type": "L",
+    "inverted_name": "Sami, Northern",
+    "country_code": "NO",
+    "country_name": "Norway"
+  },
+  "smo": {
+    "alpha_2": "sm",
+    "alpha_3": "smo",
+    "name": "Samoan",
+    "name_fr": "Samoan",
+    "scope": "I",
+    "type": "L"
+  },
+  "sna": {
+    "alpha_2": "sn",
+    "alpha_3": "sna",
+    "name": "Shona",
+    "name_fr": "Shona",
+    "scope": "I",
+    "type": "L"
+  },
+  "snd": {
+    "alpha_2": "sd",
+    "alpha_3": "snd",
+    "name": "Sindhi",
+    "name_fr": "Sindhi",
+    "scope": "I",
+    "type": "L"
+  },
+  "som": {
+    "alpha_2": "so",
+    "alpha_3": "som",
+    "name": "Somali",
+    "name_fr": "Somali",
+    "scope": "I",
+    "type": "L"
+  },
+  "sot": {
+    "alpha_2": "st",
+    "alpha_3": "sot",
+    "name": "Southern Sotho",
+    "name_fr": "Sotho méridional",
+    "scope": "I",
+    "type": "L",
+    "inverted_name": "Sotho, Southern"
+  },
+  "spa": {
+    "alpha_2": "es",
+    "alpha_3": "spa",
+    "name": "Spanish",
+    "name_fr": "Espagnol",
+    "scope": "I",
+    "type": "L",
+    "country_code": "ES",
+    "country_name": "Spain"
+  },
+  "srp": {
+    "alpha_2": "sr",
+    "alpha_3": "srp",
+    "name": "Serbian",
+    "name_fr": "Serbe",
+    "scope": "I",
+    "type": "L"
+  },
+  "ssw": {
+    "alpha_2": "ss",
+    "alpha_3": "ssw",
+    "name": "Swati",
+    "name_fr": "Swati",
+    "scope": "I",
+    "type": "L"
+  },
+  "sun": {
+    "alpha_2": "su",
+    "alpha_3": "sun",
+    "name": "Sundanese",
+    "name_fr": "Sundanais",
+    "scope": "I",
+    "type": "L"
+  },
+  "swe": {
+    "alpha_2": "sv",
+    "alpha_3": "swe",
+    "name": "Swedish",
+    "name_fr": "Suédois",
+    "scope": "I",
+    "type": "L",
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  "tah": {
+    "alpha_2": "ty",
+    "alpha_3": "tah",
+    "name": "Tahitian",
+    "name_fr": "Tahitien",
+    "scope": "I",
+    "type": "L"
+  },
+  "tam": {
+    "alpha_2": "ta",
+    "alpha_3": "tam",
+    "name": "Tamil",
+    "name_fr": "Tamoul",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "tat": {
+    "alpha_2": "tt",
+    "alpha_3": "tat",
+    "name": "Tatar",
+    "name_fr": "Tatar",
+    "scope": "I",
+    "type": "L"
+  },
+  "tel": {
+    "alpha_2": "te",
+    "alpha_3": "tel",
+    "name": "Telugu",
+    "name_fr": "Télougou",
+    "scope": "I",
+    "type": "L",
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "tgk": {
+    "alpha_2": "tg",
+    "alpha_3": "tgk",
+    "name": "Tajik",
+    "name_fr": "Tadjik",
+    "scope": "I",
+    "type": "L",
+    "country_code": "TJ",
+    "country_name": "Tajikistan"
+  },
+  "tgl": {
+    "alpha_2": "tl",
+    "alpha_3": "tgl",
+    "name": "Tagalog",
+    "name_fr": "Tagalog",
+    "scope": "I",
+    "type": "L"
+  },
+  "tha": {
+    "alpha_2": "th",
+    "alpha_3": "tha",
+    "name": "Thai",
+    "name_fr": "Thaï",
+    "scope": "I",
+    "type": "L",
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  "tir": {
+    "alpha_2": "ti",
+    "alpha_3": "tir",
+    "name": "Tigrinya",
+    "name_fr": "Tigrigna",
+    "scope": "I",
+    "type": "L"
+  },
+  "ton": {
+    "alpha_2": "to",
+    "alpha_3": "ton",
+    "name": "Tonga (Tonga Islands)",
+    "name_fr": "Tongien (Îles Tonga)",
+    "scope": "I",
+    "type": "L"
+  },
+  "tsn": {
+    "alpha_2": "tn",
+    "alpha_3": "tsn",
+    "name": "Tswana",
+    "name_fr": "Tswana",
+    "scope": "I",
+    "type": "L"
+  },
+  "tso": {
+    "alpha_2": "ts",
+    "alpha_3": "tso",
+    "name": "Tsonga",
+    "name_fr": "Tsonga",
+    "scope": "I",
+    "type": "L"
+  },
+  "tuk": {
+    "alpha_2": "tk",
+    "alpha_3": "tuk",
+    "name": "Turkmen",
+    "name_fr": "Turkmène",
+    "scope": "I",
+    "type": "L"
+  },
+  "tur": {
+    "alpha_2": "tr",
+    "alpha_3": "tur",
+    "name": "Turkish",
+    "name_fr": "Turc",
+    "scope": "I",
+    "type": "L",
+    "country_code": "TR",
+    "country_name": "Türkiye"
+  },
+  "twi": {
+    "alpha_2": "tw",
+    "alpha_3": "twi",
+    "name": "Twi",
+    "name_fr": "Twi",
+    "scope": "I",
+    "type": "L"
+  },
+  "uig": {
+    "alpha_2": "ug",
+    "alpha_3": "uig",
+    "name": "Uighur",
+    "name_fr": "Ouïghour",
+    "scope": "I",
+    "type": "L"
+  },
+  "ukr": {
+    "alpha_2": "uk",
+    "alpha_3": "ukr",
+    "name": "Ukrainian",
+    "name_fr": "Ukrainien",
+    "scope": "I",
+    "type": "L",
+    "country_code": "UA",
+    "country_name": "Ukraine"
+  },
+  "urd": {
+    "alpha_2": "ur",
+    "alpha_3": "urd",
+    "name": "Urdu",
+    "name_fr": "Ourdou",
+    "scope": "I",
+    "type": "L",
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  "ven": {
+    "alpha_2": "ve",
+    "alpha_3": "ven",
+    "name": "Venda",
+    "name_fr": "Venda",
+    "scope": "I",
+    "type": "L"
+  },
+  "vie": {
+    "alpha_2": "vi",
+    "alpha_3": "vie",
+    "name": "Vietnamese",
+    "name_fr": "Vietnamien",
+    "scope": "I",
+    "type": "L",
+    "country_code": "VN",
+    "country_name": "Viet Nam"
+  },
+  "wln": {
+    "alpha_2": "wa",
+    "alpha_3": "wln",
+    "name": "Walloon",
+    "name_fr": "Wallon",
+    "scope": "I",
+    "type": "L"
+  },
+  "wol": {
+    "alpha_2": "wo",
+    "alpha_3": "wol",
+    "name": "Wolof",
+    "name_fr": "Wolof",
+    "scope": "I",
+    "type": "L"
+  },
+  "xho": {
+    "alpha_2": "xh",
+    "alpha_3": "xho",
+    "name": "Xhosa",
+    "name_fr": "Xhosa",
+    "scope": "I",
+    "type": "L"
+  },
+  "yor": {
+    "alpha_2": "yo",
+    "alpha_3": "yor",
+    "name": "Yoruba",
+    "name_fr": "Yoruba",
+    "scope": "I",
+    "type": "L"
+  },
+  "zul": {
+    "alpha_2": "zu",
+    "alpha_3": "zul",
+    "name": "Zulu",
+    "name_fr": "Zoulou",
+    "scope": "I",
+    "type": "L"
+  }
+}

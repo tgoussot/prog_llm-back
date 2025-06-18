@@ -1,0 +1,16 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+sqlalchemy==2.0.27
+pydantic==2.9.2
+pydantic-settings==2.6.1
+python-dotenv==1.1.0
+langchain-core>=0.1.8
+langchain-mistralai>=0.0.5
+python-multipart==0.0.9
+uuid>=1.30
+enum34>=1.1.10
+typing-extensions>=4.0.0
+pycountry==24.6.1
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.1.2 
