@@ -2,12 +2,8 @@
 ## Installation
 
 1. Cloner le dépôt
-2. Créer un environnement virtuel :
-   ```
-   python3 -m venv venv
-   ```
    
-3. Installer les dépendances :
+2. Installer les dépendances :
    ```
    pip install -r requirements.txt
    ```
