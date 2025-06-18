@@ -19,17 +19,3 @@ uvicorn app.main:app --reload
 L'API sera disponible à l'adresse : http://localhost:8000
 
 La documentation interactive Swagger UI : http://localhost:8000/docs
-
-## Structure du projet
-
-```
-backend/
-├── app/
-│   ├── api/             # Routes API
-│   ├── core/            # Configurations et utilitaires
-│   ├── models/          # Modèles de données
-│   ├── schemas/         # Schémas Pydantic
-│   └── main.py          # Point d'entrée de l'application
-├── venv/                # Environnement virtuel
-└── requirements.txt     # Dépendances
-``` 
