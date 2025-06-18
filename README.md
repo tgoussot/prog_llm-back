@@ -1,7 +1,4 @@
 # FastAPI Hello World
-
-Une application FastAPI simple respectant les bonnes pratiques.
-
 ## Installation
 
 1. Cloner le dépôt
